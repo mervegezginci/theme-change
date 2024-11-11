@@ -22,7 +22,8 @@ This project demonstrates a simple light and dark theme toggle functionality usi
 - Toggle between light and dark themes.
 - Themes are saved in localStorage, so the user's preference is remembered.
 - Smooth transition effect when switching themes.
-- Technologies used:
+
+## Technologies used:
 
 - HTML
 - CSS
