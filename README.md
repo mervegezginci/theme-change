@@ -29,5 +29,5 @@ This project demonstrates a simple light and dark theme toggle functionality usi
 - CSS
 - JavaScript
 
-<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/b5aafc1d-4bf4-45c9-bb7f-abdf024dce23" />
-<img width="1919" height="907" alt="Ekran görüntüsü 2025-08-04 232215" src="https://github.com/user-attachments/assets/a86e6dfb-883c-46e6-a69d-d891fbfc39e7" />
+<img width="500" height="500" alt="Ekran görüntüsü 2025-08-04 232227" src="https://github.com/user-attachments/assets/a7f06d81-afae-4df2-8b7b-a712f6886141" />
+<img width="500" height="500" alt="Ekran görüntüsü 2025-08-04 232215" src="https://github.com/user-attachments/assets/afda8a8a-eb88-4cd7-8ef6-734900dfd654" />
